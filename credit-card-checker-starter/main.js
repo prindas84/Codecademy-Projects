@@ -111,6 +111,7 @@ function idInvalidCardCompanies(array) {
 }
 
 console.log(idInvalidCardCompanies(invalidCards));
+console.log("Test");
 
 
 
