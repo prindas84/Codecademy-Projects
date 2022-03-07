@@ -81,9 +81,7 @@ while (storedInstances.length < 30) {
 }
 
 
-
 // Testing the object factory.
-
 
 console.log(storedInstances);
 console.log(storedInstances.length);
