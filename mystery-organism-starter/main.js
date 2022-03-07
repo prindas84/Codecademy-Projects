@@ -86,11 +86,3 @@ while (storedInstances.length < 30) {
 console.log(storedInstances);
 console.log(storedInstances.length);
 
-
-
-
-
-
-
-
-
